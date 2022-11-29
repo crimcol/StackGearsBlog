@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33027.239
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication", "WebApplication\WebApplication.csproj", "{B86807B3-CD06-4906-9BF3-3AEB3E691DB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbMigrations", "DbMigrations\DbMigrations.csproj", "{7E0AA535-91C6-4748-AE09-273A72343938}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B86807B3-CD06-4906-9BF3-3AEB3E691DB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B86807B3-CD06-4906-9BF3-3AEB3E691DB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B86807B3-CD06-4906-9BF3-3AEB3E691DB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B86807B3-CD06-4906-9BF3-3AEB3E691DB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E0AA535-91C6-4748-AE09-273A72343938}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E0AA535-91C6-4748-AE09-273A72343938}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E0AA535-91C6-4748-AE09-273A72343938}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E0AA535-91C6-4748-AE09-273A72343938}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {183346D4-71FB-4874-BEFC-22C405CCB078}
+	EndGlobalSection
+EndGlobal
