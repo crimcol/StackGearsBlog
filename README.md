@@ -1,1 +1,1 @@
-"# StackGearsBlog" 
+# StackGearsBlog
